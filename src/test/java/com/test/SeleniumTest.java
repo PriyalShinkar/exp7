@@ -32,7 +32,7 @@ public class SeleniumTest {
         }
 
         if (url != null) {
-            driver.get(url); [cite: 40]
+            driver.get(url);
         }
     }
 
